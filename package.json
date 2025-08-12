@@ -1,0 +1,22 @@
+{
+  "name": "evaluacion_cypress",
+  "version": "1.0.0",
+  "description": "evaluacion cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eslully/EvaluacionCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eslully/EvaluacionCypress/issues"
+  },
+  "homepage": "https://github.com/eslully/EvaluacionCypress#readme",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
